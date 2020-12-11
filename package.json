@@ -1,0 +1,14 @@
+{
+  "id": "hermine@thw",
+  "name": "Hermine@THW",
+  "version": "1.0.0",
+  "description": "Hermine@THW",
+  "main": "index.js",
+  "author": "Malte Block <extrem.trucker@gmx.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.thw-messenger.de/thw/app",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
